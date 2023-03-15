@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678872752 source:d:\kunal\c++\obd-ii_pid_auto(15-03)\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+
